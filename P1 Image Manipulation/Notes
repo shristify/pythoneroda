@@ -1,0 +1,5 @@
+- Rotates image by 90 deg clockwise
+- resizes to 128x128
+- saves to folder "changed"
+- writes the image name on the image
+- saves to folder "changed2"
