@@ -17,7 +17,7 @@ table_data=[
 reports.generate("./tmp/fruits.pdf", "A Complete Inventory of My Fruit", "This is all my fruit.", table_data)
 sender = "asteroidbyjava007@gmail.com"
 recipient = "******" #recipient mail
-subject = "TBR 2021"
+subject = "FRUIT INVENTORY"
 
 body = "MY FRUIT LIST"
 attachment_path = "./tmp/fruits.pdf"
