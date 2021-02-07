@@ -1,0 +1,9 @@
+OBJECTIVES:
+ - Generating PDFs
+ - Sending Mails
+ - Converting Text data to python objects then to JSON
+ - Then converting JSON file back to object for use in script
+ - Use of Project P2 TBR List
+ - createjson takes all txt files and converts them into book.json file
+ - use book.json file in pdfreport.py to generate pdf in reports.py
+ - send pdf through emails.py
